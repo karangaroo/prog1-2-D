@@ -1,14 +1,8 @@
 header{
 
-    background-color: #424e61;
+    background-color:#424E61;
     color: white;
+    justify-content: space-around;
+    display: flex;
     
-    
-}
-
-.logo-espetos{
-
-  width: 10%;
-  ;
- 
 }
