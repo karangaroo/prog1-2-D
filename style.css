@@ -44,7 +44,7 @@ body {
 .escola-titulo {
     padding: 24px 0;
     display: flex;
-    : center;
+    align-items: center;
 }
 
 .escola-imagem {
@@ -63,7 +63,7 @@ body {
 }
 
 .estudante-div{
-    align-items: center;
+    text-align: center;
     padding: 16px 0;
 }
 .estudante-todos{
