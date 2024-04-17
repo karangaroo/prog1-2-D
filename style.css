@@ -1,6 +1,12 @@
-*{
+* {
     margin: 0;
     padding: 0;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .cabecalho {
@@ -12,17 +18,17 @@
     padding: 24px 0;
 }
 
-.cabecalho-imagem{
+.cabecalho-imagem {
     width: 20%;
 }
 
-.cabecalho-lista-item{
+.cabecalho-lista-item {
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
 }
 
-.escola{
+.escola {
     background-image: linear-gradient(#424E61, #4EBFE9);
     color: white;
     display: flex;
@@ -31,14 +37,14 @@
     padding: 24px 0;
 }
 
-.div-escola-conteudo{
-    width: 35% ;
+.div-escola-conteudo {
+    width: 35%;
 }
 
-.escola-titulo{
+.escola-titulo {
     padding: 24px 0;
 }
 
-.escola-imagem{
+.escola-imagem {
     width: 25%;
 }
