@@ -28,6 +28,10 @@
     display: flex;
 }
 
+.div-escola-conteudo{
+    width: 25% ;
+}
+
 .escola-imagem{
     width: 25%;
 }
