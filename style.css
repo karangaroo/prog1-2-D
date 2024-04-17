@@ -46,13 +46,13 @@ body {
 }
 
 .escola-imagem {
-    width: 5%;
+    width: 25%;
 }
 .estudante{
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 5%;
+    width: 120px;
 }
 
 .estudante-icone{
