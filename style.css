@@ -52,11 +52,12 @@ body {
 .estudante{
     padding: 24px 0;
 }
-.estudante-titulo{
+.div-titulo{
+
     display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
 }
+
 .estudante-imagem{
     width: 120px;
 }
