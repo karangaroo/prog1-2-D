@@ -29,7 +29,11 @@
 }
 
 .div-escola-conteudo{
-    width: 25% ;
+    width: 35% ;
+}
+
+.escola-titulo{
+    padding: 24px 0;
 }
 
 .escola-imagem{
